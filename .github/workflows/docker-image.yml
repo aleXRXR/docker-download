@@ -26,7 +26,7 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: alexrxr/downloads:1
+        tags: alexrxr/downloads:2
         context: "."
         file: "Dockerfile"
 
