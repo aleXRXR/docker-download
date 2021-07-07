@@ -8,4 +8,4 @@ RUN apt-get -y install curl
 RUN apt-get -y install megatools
 RUN apt-get -y install zip
 RUN apt-get -y install wget
-RUN megadl 'https://mega.co.nz/#!G5AFGYbJ!wo-DtDbzoA8Jxs8nILKxtRmxwAfDc14jkEY3OU99eII'
+RUN megadl 'https://mega.co.nz/#!7S5HUA7D!8PB_IWQUSNiJT2Vb0BQ4DB0AARy7BTiEEhQVLfLMrzY'
