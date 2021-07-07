@@ -7,4 +7,5 @@ RUN apt-get -y update
 RUN apt-get -y install curl
 RUN apt-get -y install megatools
 RUN apt-get -y install zip
+RUN apr-get -y install wget
 RUN wget 'https://botein.workupload.com/download/a2bGhVRmxus'
