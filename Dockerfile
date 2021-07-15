@@ -9,4 +9,4 @@ RUN apt-get -y install megatools
 RUN apt-get -y install zip
 RUN apt-get -y install wget
 RUN apt-get -y install transmission-cli
-RUN megadl "https://mega.co.nz/#!gptC1KwL!xq6IjujIzD7G6-Kx2wSW_veGxy1GPYAi2CpJkLh_j-I"
+RUN megadl "https://mega.co.nz/#!hk8E3IjA!kcjreCQrm4zsNKCZQKcYsqG8slKWI-Zhxt0da1pgI1g"
