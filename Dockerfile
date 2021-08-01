@@ -7,5 +7,6 @@ RUN apt-get -y install python
 
 #setup OpenNRE
 RUN git clone https://github.com/thunlp/OpenNRE.git \
-    && pip install -r OpenNRE/requirements.txt \
-    && python OpenNRE/setup.py install
+    && cd OpenNRE \
+    && pip install -r requirements.txt \
+    && python setup.py install
