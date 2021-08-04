@@ -5,6 +5,4 @@ RUN apt-get -y install sed
 RUN apt-get -y install megatools
 RUN apt-get -y install curl
 RUN apt-get -y install zip
-RUN megadl 'https://mega.co.nz/#!Ub4jEY7Z!il68BivpO7tlblXobNfjFonjmk8b__FuI7BzYlIF3EQ'
-RUN megadl 'https://mega.co.nz/#!Sg41kAAY!ELdxO_-fj9Vr0bSBJYomlnMIQrZqG36FVqCgf78O9A4'
-RUN megadl 'https://mega.co.nz/#!5XYEGDBC!I_UhlZN-R1ODjZBYAuNUkFMzRCMOi8c4WVTpw0_IPgw'
+RUN megadl 'https://mega.co.nz/#!PB9kDJAI!K9oZU3MJJ50iJLfH9QKo1Aa8Kqw6lI8_PjJ6jrZyj1I'
