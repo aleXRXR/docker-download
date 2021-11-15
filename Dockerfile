@@ -6,4 +6,4 @@ RUN apt-get -y install megatools
 RUN apt-get -y install curl
 RUN apt-get -y install zip
 
-RUN curl https://d2lgz8pjxfsep3.cloudfront.net/installer/669898955204995665/5313790
+RUN megadl 'https://mega.nz/#!eUIXyAQR!wSZ6oGbADTtfNYDQb_kg8HNchEDKG8TVCB7UKpno7_w'
