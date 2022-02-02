@@ -5,7 +5,7 @@ RUN apt-get -y install sed
 RUN apt-get -y install megatools
 RUN apt-get -y install curl
 RUN apt-get -y install zip
+RUN apt-get -y install wget
 
-RUN megadl 'https://mega.nz/#!7FplQZia!dVVOv7strRJ3PPYQNQIoac2Cp0oMZYoRPEPUMhd5BJ8'
-RUN megadl 'https://mega.nz/#!qJ4xybgI!wK4CHeDdmP-apjzwRxYRAJnDWvKlPjMMF9XQu8ig5oI'
+RUN wget 'https://fs3.bowfile.com/J05/Mount.and.Blade.II.Bannerlord.e1.7.0.Early.Access.part02.rar?download_token=c6ef4efa72b356b6143ef06033adabe83b38b3c2b4136149677e274dc7e7fad2'
 
